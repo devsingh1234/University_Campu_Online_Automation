@@ -1,0 +1,10 @@
+**/__pycache__/
+Faculty/__pycache__/
+Faculty/migrations/__pycache__/
+Student/__pycache__/
+Student/migrations/__pycache__/
+Visitor/__pycache__/
+Visitor/migrations/__pycache__/
+University_Campus_Online_Automation/__pycache__/
+
+
